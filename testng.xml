@@ -10,7 +10,7 @@
 
 	<test thread-count="5" name="Test">
 		<classes>
-			<class name="com.Testcases.TC01" />
+			<class name="com.Testcases.Newly_added" />
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
